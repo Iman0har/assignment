@@ -6,13 +6,6 @@
       "MobileNumber": "9963241001",
       "Gender": "male",
       "id": 1
-    },
-    {
-      "Name": "Shiva",
-      "Email": "shiva@gmail.com",
-      "MobileNumber": "222333313",
-      "Gender": "male",
-      "id": 2
     }
   ]
 }
