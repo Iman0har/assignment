@@ -1,0 +1,12 @@
+.maindiv{
+    display: grid;
+    grid-template-columns: auto ;
+    margin-top: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  .maindiv > div{
+    align-items: center;
+    margin-top: 20px;
+  }
+  
