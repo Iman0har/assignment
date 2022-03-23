@@ -4,7 +4,9 @@
 
   
 <p> I have used material ui for design</p>
-<p>Here the employee data will be filled and after clicking the add button the information will be of the employee or employees will be displayed as shown in the second image</p>
+
+<p> I used json server for storing the data of the employee</p>
+<p>Here the employee data will be filled and after clicking the add button the information will be added to the db.json flile. The data in the server  of the employee or employees will be displayed as shown in the second image</p>
 
 
 ![Screenshot (82)](https://user-images.githubusercontent.com/93375590/159631395-5ee137fe-739b-4221-870f-f4b1e671cdb2.png)
